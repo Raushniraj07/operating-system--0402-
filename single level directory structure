@@ -21,17 +21,3 @@ int main()
     printf("Data send is : %s \n", message.mesg_text);
     return 0;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
